@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋
 
-
+![githubprofielfoto](https://user-images.githubusercontent.com/78590845/141198851-7c12db22-a1a4-42a8-9740-9fa857f73038.png)
 
 I'm a Java developer who is passionate about making complex JavaFX projects.
 
@@ -14,3 +14,4 @@ I'm a Java developer who is passionate about making complex JavaFX projects.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
