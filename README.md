@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chris%20van%20Dalen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Architect%20%7C%20JavaFX%20Craftsman&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chris%20van%20Dalen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Angular%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+enterprise+Java+solutions+%F0%9F%9A%80;JavaFX+UI+that+makes+users+go+WOW+%E2%9C%A8;Full-Stack+Dev+%40+Sopra+Steria+%2F+ProRail+%F0%9F%9A%82;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+enterprise+Java+%26+Spring+Boot+APIs+%F0%9F%9A%80;Crafting+sleek+Angular+frontends+%E2%9C%A8;Full-Stack+Dev+%40+Sopra+Steria+%2F+ProRail+%F0%9F%9A%82;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,7 +25,7 @@ public class ChrisvanDalen extends Developer {
     private final String role        = "Full-Stack Developer";
     private final String company     = "Sopra Steria @ ProRail";
     private final String location    = "Netherlands 🇳🇱";
-    private final String[] passions  = {"JavaFX", "Clean Architecture", "Coffee ☕"};
+    private final String[] passions  = {"Spring Boot", "Angular", "Clean Architecture", "Coffee ☕"};
 
     @Override
     public String getMotivation() {
@@ -48,7 +48,7 @@ public class ChrisvanDalen extends Developer {
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,gradle&theme=dark&perline=5" />
 
 ### Frontend & UI
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark&perline=5" />
 
 ### Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=git,docker,linux,postgres,github&theme=dark&perline=5" />
@@ -62,7 +62,7 @@ public class ChrisvanDalen extends Developer {
 | Domain | Technologies |
 |:---|:---|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
-| **UI/Desktop** | ![JavaFX](https://img.shields.io/badge/JavaFX-Expert-007396?style=flat-square&logo=java&logoColor=white) ![FXML](https://img.shields.io/badge/FXML-Advanced-5C6BC0?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Architecture** | ![MVC](https://img.shields.io/badge/MVC-Pattern-7C3AED?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID-Principles-06b6d4?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean-Architecture-10b981?style=flat-square) |
@@ -104,7 +104,7 @@ public class ChrisvanDalen extends Developer {
 
 </div>
 
-> **Open to collaborating on Java & JavaFX projects.** Got an interesting problem? Let's build something cool.
+> **Open to collaborating on Java, Spring Boot & Angular projects.** Got an interesting problem? Let's build something cool.
 
 ---
 
