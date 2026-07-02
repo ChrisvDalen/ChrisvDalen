@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Chris van Dalen — Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title{font:700 52px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#ffffff;opacity:0;animation:fadeUp .9s ease-out .15s forwards}
+    .sub{font:500 18px 'Fira Code','SFMono-Regular',Consolas,monospace;fill:#c4b5fd;opacity:0;animation:fadeUp .9s ease-out .55s forwards}
+    .bar{transform-box:fill-box;transform-origin:center;opacity:0;animation:grow .8s ease-out .95s forwards}
+    .w1{animation:drift1 9s linear infinite}
+    .w2{animation:drift2 14s linear infinite}
+    .p{animation:bob 5s ease-in-out infinite}
+    .d1{animation-delay:-1.2s}.d2{animation-delay:-2.5s}.d3{animation-delay:-3.8s}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes grow{from{opacity:0;transform:scaleX(0)}to{opacity:1;transform:scaleX(1)}}
+    @keyframes drift1{from{transform:translateX(0)}to{transform:translateX(-300px)}}
+    @keyframes drift2{from{transform:translateX(-400px)}to{transform:translateX(0)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+  </style>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <g opacity="0.5">
+    <circle class="p" cx="140" cy="70" r="3" fill="#7C3AED"/>
+    <circle class="p d2" cx="300" cy="180" r="2.5" fill="#06b6d4"/>
+    <circle class="p d1" cx="620" cy="42" r="2" fill="#a78bfa"/>
+    <circle class="p d1" cx="960" cy="60" r="3" fill="#06b6d4"/>
+    <circle class="p d3" cx="1080" cy="170" r="2.5" fill="#7C3AED"/>
+  </g>
+  <path class="w2" fill="url(#accent)" opacity="0.22" d="M0 206 Q100 190 200 206 T400 206 T600 206 T800 206 T1000 206 T1200 206 T1400 206 T1600 206 T1800 206 L1800 240 L0 240 Z"/>
+  <path class="w1" fill="#ffffff" opacity="0.07" d="M0 214 Q75 200 150 214 T300 214 T450 214 T600 214 T750 214 T900 214 T1050 214 T1200 214 T1350 214 T1500 214 T1650 214 T1800 214 L1800 240 L0 240 Z"/>
+  <text class="title" x="600" y="112" text-anchor="middle">Chris van Dalen</text>
+  <rect class="bar" x="440" y="128" width="320" height="4" rx="2" fill="url(#accent)"/>
+  <text class="sub" x="600" y="166" text-anchor="middle">Full-Stack Developer · Java &amp; Spring Boot · Angular</text>
+</svg>
