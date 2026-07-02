@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -16,6 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_cards.py dist
+
       - name: Generate snake animations
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,7 +33,7 @@ jobs:
             dist/github-snake.svg?palette=github-dark&color_dots=#161b22,#4c1d95,#6d28d9,#7c3aed,#a78bfa&color_snake=#06b6d4
             dist/github-snake-light.svg?palette=github-light&color_snake=#7c3aed
 
-      - name: Push snake to output branch
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

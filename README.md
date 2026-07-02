@@ -75,8 +75,8 @@ public class ChrisvanDalen extends Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisvDalen&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;icon_color=06b6d4&amp;text_color=ffffff" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisvDalen&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;text_color=ffffff" alt="Top languages"/>
+<img height="200" src="https://raw.githubusercontent.com/ChrisvDalen/ChrisvDalen/output/stats-card.svg" alt="GitHub stats"/>
+<img height="200" src="https://raw.githubusercontent.com/ChrisvDalen/ChrisvDalen/output/top-langs.svg" alt="Top languages"/>
 
 </div>
 
