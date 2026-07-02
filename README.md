@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Chris%20van%20Dalen&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Angular%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;lines=Building+enterprise+Java+%26+Spring+Boot+APIs+%F0%9F%9A%80;Crafting+sleek+Angular+frontends+%E2%9C%A8;Full-Stack+Dev+%40+Sopra+Steria+%2F+ProRail+%F0%9F%9A%82;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;lines=Building+enterprise+Java+%26+Spring+Boot+APIs+%F0%9F%9A%80;Crafting+sleek+Angular+frontends+%E2%9C%A8;Full-Stack+Dev+%40+Sopra+Steria+%2F+ProRail+%F0%9F%9A%82;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
 <br/>
 
@@ -75,46 +75,32 @@ public class ChrisvanDalen extends Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisvDalen&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;icon_color=06b6d4&amp;text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisvDalen&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisvDalen&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;icon_color=06b6d4&amp;text_color=ffffff" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisvDalen&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7C3AED&amp;text_color=ffffff" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisvDalen&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7C3AED&amp;fire=06b6d4&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=ChrisvDalen&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7C3AED&amp;fire=06b6d4&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=888888" width="60%" alt="Contribution streak"/>
 
-</div>
-
----
-
-## `$ cat trophies.json`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChrisvDalen&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" width="100%"/>
 </div>
 
 ---
 
-## `$ git log --oneline --graph featured-projects`
+## `$ ./snake --eat-contributions`
 
 <div align="center">
 
-[![ProRail Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisvDalen&repo=ChrisvDalen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=06b6d4&text_color=ffffff)](https://github.com/ChrisvDalen/ChrisvDalen)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrisvDalen/ChrisvDalen/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChrisvDalen/ChrisvDalen/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChrisvDalen/ChrisvDalen/output/github-snake.svg" width="100%" alt="Snake eating my contributions" />
+</picture>
 
 </div>
 
 > **Open to collaborating on Java, Spring Boot & Angular projects.** Got an interesting problem? Let's build something cool.
-
----
-
-## `$ tail -f activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisvDalen&amp;bg_color=0d1117&amp;color=7C3AED&amp;line=06b6d4&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
@@ -123,7 +109,7 @@ public class ChrisvanDalen extends Developer {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChrisvDalen-181717?style=for-the-badge&logo=github)](https://github.com/ChrisvDalen)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris@example.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chlvandalen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 <br/>
