@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Chris%20van%20Dalen&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Angular%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Chris van Dalen — Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;lines=Building+enterprise+Java+%26+Spring+Boot+APIs+%F0%9F%9A%80;Crafting+sleek+Angular+frontends+%E2%9C%A8;Full-Stack+Dev+%40+Sopra+Steria+%2F+ProRail+%F0%9F%9A%82;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:06b6d4&amp;height=3&amp;section=header" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `$ whoami`
 
@@ -36,7 +36,7 @@ public class ChrisvanDalen extends Developer {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,100:06b6d4&amp;height=3&amp;section=header" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ---
 
@@ -118,4 +118,4 @@ public class ChrisvanDalen extends Developer {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
