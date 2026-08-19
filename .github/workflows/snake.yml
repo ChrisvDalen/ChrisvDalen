@@ -34,7 +34,7 @@ jobs:
             dist/github-snake-light.svg?palette=github-light&color_snake=#7c3aed
 
       - name: Push assets to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
